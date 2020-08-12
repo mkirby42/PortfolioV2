@@ -1,0 +1,27 @@
+{
+  "completed": "2020-08-12T21:15:12.672703Z",
+  "periodic": true,
+  "started": "2020-08-12T21:15:00.336521Z",
+  "versions": [
+    {
+      "filename": "setuptools-49.3.2-py3-none-any.whl",
+      "found_date": "2020-08-12T21:15:00.871643Z",
+      "release_date": null
+    },
+    {
+      "filename": "setuptools-49.3.1-py3-none-any.whl",
+      "found_date": "2020-08-12T21:15:05.964948Z",
+      "release_date": null
+    },
+    {
+      "filename": "setuptools-49.3.0-py3-none-any.whl",
+      "found_date": "2020-08-12T21:15:09.026272Z",
+      "release_date": null
+    },
+    {
+      "filename": "setuptools-49.2.1-py3-none-any.whl",
+      "found_date": "2020-08-12T21:15:10.962351Z",
+      "release_date": null
+    }
+  ]
+}
