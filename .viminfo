@@ -23,18 +23,20 @@
 # Registers:
 
 # File marks:
-'0  3  8  ~/.gitignore
-'1  1  0  ~/.ssh/id_rsa.pub
-'2  1  0  ~/.ssh/id_rsa.pub.
-'3  1  0  ~/.gitignore
-'4  1  0  /var/log/apache2/error.log
-'5  23  0  /etc/apache2/sites-enabled/000-default.conf
-'6  11  24  ~/portfolioV2/app.wsgi
-'7  9  9  ~/portfolioV2/app.py
+'0  14  10  ~/.gitignore
+'1  16  8  ~/.gitignore
+'2  1  0  ~/.ssh/id_rsa.pub
+'3  1  0  ~/.ssh/id_rsa.pub.
+'4  1  0  ~/.gitignore
+'5  1  0  /var/log/apache2/error.log
+'6  23  0  /etc/apache2/sites-enabled/000-default.conf
+'7  11  24  ~/portfolioV2/app.wsgi
+'8  9  9  ~/portfolioV2/app.py
 
 # Jumplist (newest first):
--'  3  8  ~/.gitignore
+-'  14  10  ~/.gitignore
 -'  1  0  ~/.gitignore
+-'  16  8  ~/.gitignore
 -'  1  0  ~/.ssh/id_rsa.pub
 -'  1  0  ~/.ssh/id_rsa.pub.
 -'  1  0  /var/log/apache2/error.log
@@ -130,15 +132,15 @@
 -'  9  9  ~/portfolioV2/app.py
 -'  1  0  ~/portfolioV2/app.py
 -'  9  9  ~/portfolioV2/app.py
--'  1  0  ~/portfolioV2/app.py
 
 # History of marks within files (newest to oldest):
 
 > ~/.gitignore
-	"	3	8
-	^	3	9
-	.	3	0
-	+	3	0
+	"	14	10
+	^	14	11
+	.	14	0
+	+	16	0
+	+	14	0
 
 > ~/.ssh/id_rsa.pub
 	"	1	0
