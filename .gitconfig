@@ -3,3 +3,5 @@
 	email = mkirby3@angelo.edu
 [color]
 	ui = true
+[core]
+	excludesfile = /home/ubuntu/.gitignore_global
