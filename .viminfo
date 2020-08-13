@@ -8,8 +8,8 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
-:q
 :wq
+:q
 :q!
 
 # Search String History (newest to oldest):
@@ -23,18 +23,20 @@
 # Registers:
 
 # File marks:
-'0  1  0  ~/.ssh/id_rsa.pub
-'1  1  0  ~/.ssh/id_rsa.pub.
-'2  1  0  ~/.gitignore
-'3  1  0  /var/log/apache2/error.log
-'4  23  0  /etc/apache2/sites-enabled/000-default.conf
-'5  11  24  ~/portfolioV2/app.wsgi
-'6  9  9  ~/portfolioV2/app.py
+'0  3  8  ~/.gitignore
+'1  1  0  ~/.ssh/id_rsa.pub
+'2  1  0  ~/.ssh/id_rsa.pub.
+'3  1  0  ~/.gitignore
+'4  1  0  /var/log/apache2/error.log
+'5  23  0  /etc/apache2/sites-enabled/000-default.conf
+'6  11  24  ~/portfolioV2/app.wsgi
+'7  9  9  ~/portfolioV2/app.py
 
 # Jumplist (newest first):
+-'  3  8  ~/.gitignore
+-'  1  0  ~/.gitignore
 -'  1  0  ~/.ssh/id_rsa.pub
 -'  1  0  ~/.ssh/id_rsa.pub.
--'  1  0  ~/.gitignore
 -'  1  0  /var/log/apache2/error.log
 -'  23  0  /etc/apache2/sites-enabled/000-default.conf
 -'  1  0  /etc/apache2/sites-enabled/000-default.conf
@@ -132,13 +134,16 @@
 
 # History of marks within files (newest to oldest):
 
+> ~/.gitignore
+	"	3	8
+	^	3	9
+	.	3	0
+	+	3	0
+
 > ~/.ssh/id_rsa.pub
 	"	1	0
 
 > ~/.ssh/id_rsa.pub.
-	"	1	0
-
-> ~/.gitignore
 	"	1	0
 
 > /var/log/apache2/error.log
